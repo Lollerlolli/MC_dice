@@ -1,0 +1,7 @@
+name: Dice
+version: 1.0
+main: me.lollerlolli.dice.main.Main
+
+commands:
+   rollDice:
+      description: Get random numbers
